@@ -2,6 +2,7 @@
     "name": "dkhlystov/yii2-treegrid",
     "description": "TreeGrid widget for Yii PHP Framework Version 2",
     "type": "yii2-extension",
+    "version": "0.1.6",
     "keywords": ["yii2","extension","tree","grid","widget"],
     "license": "BSD-3-Clause",
     "authors": [
@@ -19,7 +20,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "dkhlystov/jquery-treegrid": ">= 0.1.6-dev"
+        "dkhlystov/jquery-treegrid": "dev-master"
     },
     "autoload": {
         "psr-4": {
