@@ -10,6 +10,13 @@
             "email": "dkhlystov@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "name": "dkhlystov/jquery-treegrid",
+            "type": "git",
+            "url": "git@github.com:dkhlystov/jquery-treegrid.git"
+        }
+    ],
     "require": {
         "yiisoft/yii2": "*",
         "dkhlystov/jquery-treegrid": ">= 0.1.6"
