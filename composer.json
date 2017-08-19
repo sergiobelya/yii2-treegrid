@@ -20,7 +20,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "dkhlystov/jquery-treegrid": "dev-master"
+        "dkhlystov/jquery-treegrid": "*"
     },
     "autoload": {
         "psr-4": {
