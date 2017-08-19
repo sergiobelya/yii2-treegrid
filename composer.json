@@ -19,7 +19,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "dkhlystov/jquery-treegrid": ">= 0.1.6"
+        "dkhlystov/jquery-treegrid": ">= 0.1.6-dev"
     },
     "autoload": {
         "psr-4": {
