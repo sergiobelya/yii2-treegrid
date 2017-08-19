@@ -13,14 +13,13 @@
     ],
     "repositories": [
         {
-            "name": "dkhlystov/jquery-treegrid",
-            "type": "git",
-            "url": "git@github.com:dkhlystov/jquery-treegrid.git"
+            "type": "vcs",
+            "url": "https://github.com/dkhlystov/jquery-treegrid.git"
         }
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "dkhlystov/jquery-treegrid": "*"
+        "dkhlystov/jquery-treegrid": "dev-master"
     },
     "autoload": {
         "psr-4": {
